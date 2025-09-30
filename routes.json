@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/www/*",
+      "redirect": "/{*}",
+      "statusCode": 301
+    }
+  ]
+}
